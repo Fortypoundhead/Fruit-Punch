@@ -5,3 +5,5 @@ Search engine optimization was thought of when building this template. As such, 
 Since web crawlers read the site top-down, they'll hit the content first, and the more static menu entries next. Just helps you to get a bit of a boost, I think.
 
 As always, this template is free for use by anyone. The only thing that I ask is that you tell me where you are using it, so I can see what good my coding is doing!
+
+![Project Screenshot](fruitpunch.png)
